@@ -1,0 +1,232 @@
+{
+  "españa": [
+    {"name": "Madrid", "image": "assets/ciudades/madrid.jpg"},
+    {"name": "Barcelona", "image": "assets/ciudades/barcelona.jpg"},
+    {"name": "Sevilla", "image": "assets/ciudades/sevilla.jpg"},
+    {"name": "Granada", "image": "assets/ciudades/granada.jpg"},
+    {"name": "Santander", "image": "assets/ciudades/santander.jpg"},
+    {"name": "Bilbao", "image": "assets/ciudades/bilbao.jpg"}
+  ],
+
+  "francia": [
+    {"name": "París", "image": "assets/ciudades/paris.jpg"},
+    {"name": "Niza", "image": "assets/ciudades/nice.jpg"},
+    {"name": "Lyon", "image": "assets/ciudades/lyon.jpg"},
+    {"name": "Marsella", "image": "assets/ciudades/marsella.jpg"},
+    {"name": "Burdeos", "image": "assets/ciudades/burdeos.jpg"},
+    {"name": "Estrasburgo", "image": "assets/ciudades/estrasburgo.jpg"},
+    {"name": "Toulouse", "image": "assets/ciudades/toulouse.jpg"}
+  ],
+
+  "italia": [
+    {"name": "Roma", "image": "assets/ciudades/rome.jpg"},
+    {"name": "Venecia", "image": "assets/ciudades/venice.jpg"},
+    {"name": "Milán", "image": "assets/ciudades/milan.jpg"},
+    {"name": "Florencia", "image": "assets/ciudades/florencia.jpg"},
+    {"name": "Bolonia", "image": "assets/ciudades/bolonia.jpg"},
+    {"name": "Pisa", "image": "assets/ciudades/pisa.jpg"},
+    {"name": "Rávena", "image": "assets/ciudades/ravena.jpg"}
+  ],
+
+  "alemania": [
+    {"name": "Berlín", "image": "assets/ciudades/berlin.jpg"},
+    {"name": "Múnich", "image": "assets/ciudades/munich.jpg"},
+    {"name": "Fráncfort", "image": "assets/ciudades/frankfurt.jpg"},
+    {"name": "Treveris", "image": "assets/ciudades/treveris.jpg"},
+    {"name": "Ratisbona", "image": "assets/ciudades/ratisbona.jpg"},
+    {"name": "Nuremberg", "image": "assets/ciudades/nuremberg.jpg"},
+    {"name": "Bremen", "image": "assets/ciudades/bremen.jpg"}
+  ],
+
+  "reino unido": [
+    {"name": "Londres", "image": "assets/ciudades/london.jpg"},
+    {"name": "Edimburgo", "image": "assets/ciudades/edinburgh.jpg"},
+    {"name": "Mánchester", "image": "assets/ciudades/manchester.jpg"},
+    {"name": "Leeds", "image": "assets/ciudades/leeds.jpg"},
+    {"name": "Cardiff", "image": "assets/ciudades/cardiff.jpg"},
+    {"name": "Bristol", "image": "assets/ciudades/bristol.jpg"},
+    {"name": "Peterborough", "image": "assets/ciudades/peterborough.jpg"}
+  ],
+
+  "grecia": [
+    {"name": "Atenas", "image": "assets/ciudades/athens.jpg"},
+    {"name": "Santorini", "image": "assets/ciudades/santorini.jpg"},
+    {"name": "Salónica", "image": "assets/ciudades/thessaloniki.jpg"},
+    {"name": "Corinto", "image": "assets/ciudades/corinto.jpg"},
+    {"name": "Esparta", "image": "assets/ciudades/esparta.jpg"},
+    {"name": "Komotiní", "image": "assets/ciudades/komotini.jpg"},
+    {"name": "Rétino", "image": "assets/ciudades/retino.jpg"}
+  ],
+
+  "portugal": [
+    {"name": "Lisboa", "image": "assets/ciudades/lisbon.jpg"},
+    {"name": "Oporto", "image": "assets/ciudades/porto.jpg"},
+    {"name": "Faro", "image": "assets/ciudades/faro.jpg"},
+    {"name": "Aveiro", "image": "assets/ciudades/aveiro.jpg"},
+    {"name": "Funchal", "image": "assets/ciudades/funchal.jpg"},
+    {"name": "Tomar", "image": "assets/ciudades/tomar.jpg"},
+    {"name": "Gondomar", "image": "assets/ciudades/gondomar.jpg"}
+  ],
+
+  "países bajos": [
+    {"name": "Ámsterdam", "image": "assets/ciudades/amsterdam.jpg"},
+    {"name": "Róterdam", "image": "assets/ciudades/rotterdam.jpg"},
+    {"name": "Utrecht", "image": "assets/ciudades/utrecht.jpg"},
+    {"name": "La haya", "image": "assets/ciudades/haya.jpg"},
+    {"name": "Marken", "image": "assets/ciudades/marken.jpg"},
+    {"name": "Haarlem", "image": "assets/ciudades/haarlem.jpg"},
+    {"name": "Lisse", "image": "assets/ciudades/lisse.jpg"}
+  ],
+
+  "suiza": [
+    {"name": "Zúrich", "image": "assets/ciudades/zurich.jpg"},
+    {"name": "Ginebra", "image": "assets/ciudades/geneva.jpg"},
+    {"name": "Lucerna", "image": "assets/ciudades/lucerne.jpg"},
+    {"name": "Lausana", "image": "assets/ciudades/lausana.jpg"},
+    {"name": "Thun", "image": "assets/ciudades/thun.jpg"},
+    {"name": "Basilea", "image": "assets/ciudades/basilea.jpg"},
+    {"name": "Bellinzona", "image": "assets/ciudades/bellinzona.jpg"}
+  ],
+
+  "japón": [
+    {"name": "Tokio", "image": "assets/ciudades/tokyo.jpg"},
+    {"name": "Kioto", "image": "assets/ciudades/kyoto.jpg"},
+    {"name": "Osaka", "image": "assets/ciudades/osaka.jpg"},
+    {"name": "Fukuoka", "image": "assets/ciudades/fukuoka.jpg"},
+    {"name": "Yokohama", "image": "assets/ciudades/yokohama.jpg"},
+    {"name": "Hamamatsu", "image": "assets/ciudades/hamamatsu.jpg"},
+    {"name": "Nara", "image": "assets/ciudades/nara.jpg"}
+  ],
+
+  "china": [
+    {"name": "Pekín", "image": "assets/ciudades/beijing.jpg"},
+    {"name": "Shanghái", "image": "assets/ciudades/shanghai.jpg"},
+    {"name": "Xi'an", "image": "assets/ciudades/xian.jpg"},
+    {"name": "Nankin", "image": "assets/ciudades/nankin.jpg"},
+    {"name": "Guiyang", "image": "assets/ciudades/guiyang.jpg"},
+    {"name": "Taiyuan", "image": "assets/ciudades/taiyuan.jpg"},
+    {"name": "Guilin", "image": "assets/ciudades/guilin.jpg"}
+  ],
+
+  "tailandia": [
+    {"name": "Bangkok", "image": "assets/ciudades/bangkok.jpg"},
+    {"name": "Chiang Mai", "image": "assets/ciudades/chiangmai.jpg"},
+    {"name": "Phuket", "image": "assets/ciudades/phuket.jpg"},
+    {"name": "Krabi", "image": "assets/ciudades/krabi.jpg"},
+    {"name": "Pattaya", "image": "assets/ciudades/pattaya.jpg"},
+    {"name": "Hua hin", "image": "assets/ciudades/huahin.jpg"},
+    {"name": "Phitsanulok", "image": "assets/ciudades/phitsanulok.jpg"}
+  ],
+
+  "india": [
+    {"name": "Nueva Delhi", "image": "assets/ciudades/newdelhi.jpg"},
+    {"name": "Bombay", "image": "assets/ciudades/bombay.jpg"},
+    {"name": "Agra", "image": "assets/ciudades/agra.jpg"},
+    {"name": "Mumbai", "image": "assets/ciudades/mumbai.jpg"},
+    {"name": "Chennai", "image": "assets/ciudades/chennai.jpg"},
+    {"name": "Bangalore", "image": "assets/ciudades/bangalore.jpg"},
+    {"name": "Aurangabad", "image": "assets/ciudades/aurangabad.jpg"}
+  ],
+
+  "estados unidos": [
+    {"name": "Nueva York", "image": "assets/ciudades/newyork.jpg"},
+    {"name": "Los Ángeles", "image": "assets/ciudades/losangeles.jpg"},
+    {"name": "Chicago", "image": "assets/ciudades/chicago.jpg"},
+    {"name": "Las Vegas", "image": "assets/ciudades/vegas.jpg"},
+    {"name": "Houston", "image": "assets/ciudades/houston.jpg"},
+    {"name": "Phoenix", "image": "assets/ciudades/phoenix.jpg"},
+    {"name": "Savannah", "image": "assets/ciudades/savannah.jpg"}
+  ],
+
+  "canadá": [
+    {"name": "Toronto", "image": "assets/ciudades/toronto.jpg"},
+    {"name": "Vancouver", "image": "assets/ciudades/vancouver.jpg"},
+    {"name": "Montreal", "image": "assets/ciudades/montreal.jpg"},
+    {"name": "Ottawa", "image": "assets/ciudades/ottawa.jpg"},
+    {"name": "Winnipeg", "image": "assets/ciudades/winnipeg.jpg"},
+    {"name": "Quebec", "image": "assets/ciudades/quebec.jpg"},
+    {"name": "Regina", "image": "assets/ciudades/regina.jpg"}
+  ],
+
+  "brasil": [
+    {"name": "Río de Janeiro", "image": "assets/ciudades/rio.jpg"},
+    {"name": "São Paulo", "image": "assets/ciudades/saopaulo.jpg"},
+    {"name": "Salvador", "image": "assets/ciudades/salvador.jpg"},
+    {"name": "Brasilia", "image": "assets/ciudades/brasilia.jpg"},
+    {"name": "Recife", "image": "assets/ciudades/recife.jpg"},
+    {"name": "Gramado", "image": "assets/ciudades/gramado.jpg"},
+    {"name": "Lencois", "image": "assets/ciudades/lencois.jpg"}
+  ],
+
+  "argentina": [
+    {"name": "Buenos Aires", "image": "assets/ciudades/buenosaires.jpg"},
+    {"name": "Córdoba", "image": "assets/ciudades/cordoba.jpg"},
+    {"name": "Mendoza", "image": "assets/ciudades/mendoza.jpg"},
+    {"name": "Iguazu", "image": "assets/ciudades/iguazu.jpg"},
+    {"name": "Corrientes", "image": "assets/ciudades/corrientes.jpg"},
+    {"name": "Jujuy", "image": "assets/ciudades/jujuy.jpg"},
+    {"name": "Moreno", "image": "assets/ciudades/moreno.jpg"},
+    {"name": "La Rioja", "image": "assets/ciudades/larioja.jpg"},
+    {"name": "Tucumán", "image": "assets/ciudades/tucumán.jpg"}
+  ],
+
+  "australia": [
+    {"name": "Sídney", "image": "assets/ciudades/sydney.jpg"},
+    {"name": "Melbourne", "image": "assets/ciudades/melbourne.jpg"},
+    {"name": "Brisbane", "image": "assets/ciudades/brisbane.jpg"},
+    {"name": "Adelaida", "image": "assets/ciudades/adelaida.jpg"},
+    {"name": "Canberra", "image": "assets/ciudades/canberra.jpg"},
+    {"name": "Bundaberg", "image": "assets/ciudades/bundaberg.jpg"},
+    {"name": "Ballarat", "image": "assets/ciudades/ballarat.jpg"}
+  ],
+
+  "nueva zelanda": [
+    {"name": "Auckland", "image": "assets/ciudades/auckland.jpg"},
+    {"name": "Wellington", "image": "assets/ciudades/wellington.jpg"},
+    {"name": "Christchurch", "image": "assets/ciudades/christchurch.jpg"},
+    {"name": "Queenstown", "image": "assets/ciudades/queenstown.jpg"},
+    {"name": "Rotorua", "image": "assets/ciudades/rotorua.jpg"},
+    {"name": "Gisborne", "image": "assets/ciudades/gisborne.jpg"},
+    {"name": "Te Anau", "image": "assets/ciudades/anau.jpg"}
+  ],
+
+  "sudáfrica": [
+    {"name": "Ciudad del Cabo", "image": "assets/ciudades/capetown.jpg"},
+    {"name": "Johannesburgo", "image": "assets/ciudades/johannesburg.jpg"},
+    {"name": "Durban", "image": "assets/ciudades/durban.jpg"},
+    {"name": "Nelspruit", "image": "assets/ciudades/nelspruit.jpg"},
+    {"name": "Pretoria", "image": "assets/ciudades/pretoria.jpg"},
+    {"name": "Kimberley", "image": "assets/ciudades/kimberley.jpg"},
+    {"name": "Polokwane", "image": "assets/ciudades/polokwane.jpg"}
+  ],
+
+  "egipto": [
+    {"name": "El Cairo", "image": "assets/ciudades/cairo.jpg"},
+    {"name": "Luxor", "image": "assets/ciudades/luxor.jpg"},
+    {"name": "Alejandría", "image": "assets/ciudades/alexandria.jpg"},
+    {"name": "Guiza", "image": "assets/ciudades/guiza.jpg"},
+    {"name": "Fayún", "image": "assets/ciudades/fayún.jpg"},
+    {"name": "Suez", "image": "assets/ciudades/suez.jpg"},
+    {"name": "Menfis", "image": "assets/ciudades/menfis.jpg"}
+  ],
+
+  "fiyi": [
+    {"name": "Nadi", "image": "assets/ciudades/nadi.jpg"},
+    {"name": "Suva", "image": "assets/ciudades/suva.jpg"},
+    {"name": "Lautoka", "image": "assets/ciudades/lautoka.jpg"},
+    {"name": "Nausori", "image": "assets/ciudades/nausori.jpg"},
+    {"name": "Korovou", "image": "assets/ciudades/korovou.jpg"},
+    {"name": "Navala", "image": "assets/ciudades/navala.jpg"},
+    {"name": "Sigatoka", "image": "assets/ciudades/sigatoka.jpg"}
+  ],
+
+  "indonesia": [
+    {"name": "Bali", "image": "assets/ciudades/bali.jpg"},
+    {"name": "Yakarta", "image": "assets/ciudades/jakarta.jpg"},
+    {"name": "Yogyakarta", "image": "assets/ciudades/yogyakarta.jpg"},
+    {"name": "Surabaya", "image": "assets/ciudades/surabaya.jpg"},
+    {"name": "Bandung", "image": "assets/ciudades/bandung.jpg"},
+    {"name": "Semarang", "image": "assets/ciudades/semarang.jpg"},
+    {"name": "Denpasar", "image": "assets/ciudades/senpasar.jpg"}
+  ]
+}
